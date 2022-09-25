@@ -1,0 +1,2 @@
+# Machine-Learning-classifiers-Fishers-Linear-Discrimination-VS-Linear-Support-Vector-Machine
+Keeping NFL (no free lunch) theorem in machine learning in mind, the best way to find the best algorithm to solve a specific problem is put them on the test. The objective of this project is to classify Normal and Imbalanced operation of an Induction Electric Motor based on the recorded data from 8 different sensors. The following presents a portion of this 1000 data. In this dataset, Normal is classified as “0” and Imbalanced is classified as “1”.
